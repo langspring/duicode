@@ -1,6 +1,6 @@
 # duicode
 
-> first project
+> first project 第一个项目
 
 ## Build Setup
 
